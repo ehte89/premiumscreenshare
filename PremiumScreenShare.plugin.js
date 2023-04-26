@@ -1,11 +1,11 @@
 /**
  * @name PremiumScreenShare
- * @author Ahlawat
- * @authorId 1025214794766221384
+ * @author ehte89
+ * @authorId 1087975695197675550
  * @version 1.0
- * @invite SgKSKyh9gY
+ * @invite https://discord.gg/wujtNFeSTJ
  * @description Make the screen sharing experience PREMIUM.
- * @website https://tharki-god.github.io/
+ * @website https://www.youtube.com/channel/UCFUKz9JgsGN7bSwl2g73Slw
  * @source github.com:ehte89/premiumscreenshare
  * @updateUrl github.com:ehte89/premiumscreenshare/PremiumScreenShare.plugin.js
  */
